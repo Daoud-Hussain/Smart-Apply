@@ -44,7 +44,6 @@ urls = [
     "https://algorepublic.com/",
     "https://hudigitallabs.com/",
     "https://msn-global.com/career",
-    "https://inter-static.skywatcher.com/downloads/starquest_telescopes.pdf",
     "https://www.pseudosquare.com/",
     "https://www.bizsol.in/careers",
     "https://hrms.shispare.com/",
