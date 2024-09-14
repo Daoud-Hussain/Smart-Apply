@@ -1,1 +1,72 @@
 # Smart-Apply
+
+**Smart Apply** is a script designed to streamline job applications by providing an easy-to-navigate list of career opportunities across **50+** Pakistani companies. By accessing this centralized resource, users can quickly find and apply for positions at multiple organizations through their **Career Pages**.
+
+## Companies and Their Career Pages
+
+- [Aurora Solutions](https://www.aurorasolutions.io/careers-old2)
+- [Arbisoft](https://arbisoft.com/careers)
+- [Systems Ltd](https://dev.systemsltd.com/careers)
+- [Devs Inc](https://www.devsinc.com/career)
+- [Netsol Technologies](http://careers.netsolpk.com/)
+- [Novatore Solutions](https://novatoresols.com/job-openings)
+- [Xeven Solutions](https://www.xevensolutions.com/careers/)
+- [Genesis Lab](https://www.genesislab.com/careers/)
+- [MRS Technologies](https://www.mrs-technologies.com/en-pk/careers/)
+- [10Pearls](https://10pearls.com/join-our-team/)
+- [Motive](https://gomotive.com/company/careers/jobs/)
+- [Emumba](https://emumba.com/careers/)
+- [Asp.Net Zero](https://aspnetzero.com/)
+- [Arham Soft](https://www.arhamsoft.com/career#positions)
+- [Suave Solutions](https://suavesol.net/careers/)
+- [CodesOrbit](https://codesorbit.com/)
+- [Vizz Web Solutions](https://vizzwebsolutions.com/career/)
+- [Tangent Technologies](https://www.tangentt.com/careers/)
+- [Uforia Infotech](https://uforiainfotech.com/careers/)
+- [FunSol Tech](https://funsoltech.com/careers/)
+- [Discrete Logix](https://www.discretelogix.com/careers/)
+- [Sudofy](https://sudofy.com/)
+- [Revolve AI](https://revolveai.com/)
+- [Absoluit](https://absoluit.com/careers/)
+- [Ropstam](https://www.ropstam.com/careers/)
+- [Mobiz](https://mobizinc.com/careers)
+- [Clustox](https://www.careers-page.com/clustox)
+- [Tangent Technologies](https://www.tangenttek.com/)
+- [Piecyfer](https://www.piecyfer.com/career)
+- [RichTech](https://richtech.io/careers/)
+- [Vaival](https://www.vaival.com/careers)
+- [Baritech Solutions](https://baritechsol.com/careers/)
+- [Esquall](https://esquall.com/career)
+- [Aspire Software](https://www.aspiresoftware.com/open-roles/)
+- [Nasnix](https://www.nasnix.com/)
+- [Techtics AI](https://techtics.ai/)
+- [Hashe](https://www.hashe.com/jobs/)
+- [iCreativez](https://www.icreativez.com/Jobs-in-Karachi-Pakistan.aspx)
+- [Graphiters](https://graphiters.com/)
+- [Avaib](https://www.avaib.com/)
+- [Algo Republic](https://algorepublic.com/)
+- [Hu Digital Labs](https://hudigitallabs.com/)
+- [MSN Global](https://msn-global.com/career)
+- [Pseudo Square](https://www.pseudosquare.com/)
+- [Bizsol](https://www.bizsol.in/careers)
+- [Shispare](https://hrms.shispare.com/)
+- [DevCrew](https://devcrew.io/careers/)
+- [Creative Giant Technologies](https://creativegianttechnologies.com/)
+- [Viral Square](https://viralsquare.org/careers)
+- [Zamratech](https://zamratech.com)
+- [GoodCore](https://www.goodcore.co.uk/careers/)
+- [Codup](https://codup.co/careers/)
+- [WP Experts](https://wpexperts.io/)
+- [Phaedra Solutions](https://www.phaedrasolutions.com/company/careers)
+- [Stella Technologies](https://www.stellatechnology.com/careers)
+- [Tekrevol](https://www.tekrevol.com/)
+- [Folio3](https://folio3.com/careers/)
+- [HawkLogix](https://hawklogix.com/jobs/)
+
+## Contributing 🖇️
+
+Pull requests are welcome for any changes.
+
+## Author 🙋‍♂
+
+- [Daoud Hussain](https://daoudhussain.netlify.app/)
