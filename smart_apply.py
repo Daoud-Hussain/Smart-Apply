@@ -55,7 +55,11 @@ urls = [
     "https://www.goodcore.co.uk/careers/",
     "https://codup.co/careers/",
     "https://wpexperts.io/",
-    "https://www.phaedrasolutions.com/company/careers"
+    "https://www.phaedrasolutions.com/company/careers",
+    "https://www.stellatechnology.com/careers",
+    "https://folio3.com/careers/",
+    "https://www.tekrevol.com/",
+    "https://hawklogix.com/jobs/"
 ]
 
 chrome_path = r'C:\Program Files\Google\Chrome\Application\chrome.exe'
