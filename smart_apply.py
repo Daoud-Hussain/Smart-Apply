@@ -1,0 +1,66 @@
+import webbrowser
+
+urls = [
+    "https://www.aurorasolutions.io/careers-old2",
+    "https://arbisoft.com/careers",
+    "https://dev.systemsltd.com/careers",
+    "https://www.devsinc.com/career",
+    "http://careers.netsolpk.com/",
+    "https://novatoresols.com/job-openings",
+    "https://www.xevensolutions.com/careers/",
+    "https://www.genesislab.com/careers",
+    "https://www.mrs-technologies.com/en-pk/careers/",
+    "https://10pearls.com/join-our-team/",
+    "https://gomotive.com/company/careers/jobs/",
+    "https://emumba.com/careers/",
+    "https://aspnetzero.com/",
+    "https://www.arhamsoft.com/career#positions",
+    "https://suavesol.net/careers/",
+    "https://codesorbit.com/",
+    "https://vizzwebsolutions.com/career/",
+    "https://www.tangentt.com/careers/",
+    "https://uforiainfotech.com/careers/",
+    "https://funsoltech.com/careers/",
+    "https://www.discretelogix.com/careers/",
+    "https://sudofy.com/",
+    "https://revolveai.com/",
+    "https://absoluit.com/careers/",
+    "https://www.ropstam.com/careers/",
+    "https://mobizinc.com/careers",
+    "https://www.careers-page.com/clustox",
+    "https://www.tangenttek.com/",
+    "https://www.piecyfer.com/career",
+    "https://richtech.io/careers/",
+    "https://www.vaival.com/careers",
+    "https://baritechsol.com/careers/",
+    "https://esquall.com/career",
+    "https://www.aspiresoftware.com/open-roles/",
+    "https://www.nasnix.com/",
+    "https://techtics.ai/",
+    "https://www.hashe.com/jobs/",
+    "https://www.icreativez.com/Jobs-in-Karachi-Pakistan.aspx",
+    "https://graphiters.com/",
+    "https://www.avaib.com/",
+    "https://algorepublic.com/",
+    "https://hudigitallabs.com/",
+    "https://msn-global.com/career",
+    "https://inter-static.skywatcher.com/downloads/starquest_telescopes.pdf",
+    "https://www.pseudosquare.com/",
+    "https://www.bizsol.in/careers",
+    "https://hrms.shispare.com/",
+    "https://devcrew.io/careers/",
+    "https://creativegianttechnologies.com/",
+    "https://viralsquare.org/careers",
+    "https://zamratech.com",
+    "https://www.goodcore.co.uk/careers/",
+    "https://codup.co/careers/",
+    "https://wpexperts.io/",
+    "https://www.phaedrasolutions.com/company/careers"
+]
+
+chrome_path = r'C:\Program Files\Google\Chrome\Application\chrome.exe'
+
+webbrowser.register('chrome', None, webbrowser.BackgroundBrowser(chrome_path))
+
+for url in urls:
+    webbrowser.get('chrome').open_new_tab(url)
